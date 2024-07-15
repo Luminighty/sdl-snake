@@ -1,0 +1,8 @@
+.cache
+.nvimrc.lua
+
+compile_commands.json
+
+*.o
+bin
+build
